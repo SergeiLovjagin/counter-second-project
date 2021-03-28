@@ -1,0 +1,44 @@
+.settingBox {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+    min-height: 170px;
+
+}
+.valuesBox {
+    margin: 10px;
+    padding: 10px 20px;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+
+}
+.settingButton {
+
+    margin: 10px;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+}
+.changeValueBoxes{
+    display: flex;
+    justify-content: space-between;
+
+}
+.changeValueBoxes p {
+    font-size: 16px;
+    margin: 5px 30px 5px 0;
+}
+input {
+    border-radius: 2px;
+    border: 1px solid #61dafb;
+    outline: none;
+    align-self: center;
+    max-height: 20px;
+    max-width: 60px;
+}
+.bgRed{
+    background-color: #ffbcbc;
+    border: 1px solid red;
+}

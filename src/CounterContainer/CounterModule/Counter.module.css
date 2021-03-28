@@ -1,0 +1,51 @@
+.counterBox {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+    min-height: 170px;
+    width: 255px;
+
+}
+
+.counterValue {
+    display: flex;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+    height: 55px;
+}
+
+.counterValue span {
+    margin: auto;
+}
+
+.counterBtnsBlock {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 2px solid #61dafbed;
+    border-radius: 5px;
+
+}
+
+.errorValue {
+    color: red;
+    animation: blink 1s linear infinite
+
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: .5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
