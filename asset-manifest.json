@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/counter-secend-project/static/css/main.6eff4402.chunk.css",
-    "main.js": "/counter-secend-project/static/js/main.0f1a2dd8.chunk.js",
-    "main.js.map": "/counter-secend-project/static/js/main.0f1a2dd8.chunk.js.map",
-    "runtime-main.js": "/counter-secend-project/static/js/runtime-main.32013068.js",
-    "runtime-main.js.map": "/counter-secend-project/static/js/runtime-main.32013068.js.map",
-    "static/js/2.8fd61f49.chunk.js": "/counter-secend-project/static/js/2.8fd61f49.chunk.js",
-    "static/js/2.8fd61f49.chunk.js.map": "/counter-secend-project/static/js/2.8fd61f49.chunk.js.map",
-    "static/js/3.06644814.chunk.js": "/counter-secend-project/static/js/3.06644814.chunk.js",
-    "static/js/3.06644814.chunk.js.map": "/counter-secend-project/static/js/3.06644814.chunk.js.map",
-    "index.html": "/counter-secend-project/index.html",
-    "static/css/main.6eff4402.chunk.css.map": "/counter-secend-project/static/css/main.6eff4402.chunk.css.map",
-    "static/js/2.8fd61f49.chunk.js.LICENSE.txt": "/counter-secend-project/static/js/2.8fd61f49.chunk.js.LICENSE.txt"
+    "main.css": "/counter-second-project/static/css/main.6eff4402.chunk.css",
+    "main.js": "/counter-second-project/static/js/main.0f1a2dd8.chunk.js",
+    "main.js.map": "/counter-second-project/static/js/main.0f1a2dd8.chunk.js.map",
+    "runtime-main.js": "/counter-second-project/static/js/runtime-main.f86e9e45.js",
+    "runtime-main.js.map": "/counter-second-project/static/js/runtime-main.f86e9e45.js.map",
+    "static/js/2.8fd61f49.chunk.js": "/counter-second-project/static/js/2.8fd61f49.chunk.js",
+    "static/js/2.8fd61f49.chunk.js.map": "/counter-second-project/static/js/2.8fd61f49.chunk.js.map",
+    "static/js/3.06644814.chunk.js": "/counter-second-project/static/js/3.06644814.chunk.js",
+    "static/js/3.06644814.chunk.js.map": "/counter-second-project/static/js/3.06644814.chunk.js.map",
+    "index.html": "/counter-second-project/index.html",
+    "static/css/main.6eff4402.chunk.css.map": "/counter-second-project/static/css/main.6eff4402.chunk.css.map",
+    "static/js/2.8fd61f49.chunk.js.LICENSE.txt": "/counter-second-project/static/js/2.8fd61f49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32013068.js",
+    "static/js/runtime-main.f86e9e45.js",
     "static/js/2.8fd61f49.chunk.js",
     "static/css/main.6eff4402.chunk.css",
     "static/js/main.0f1a2dd8.chunk.js"
